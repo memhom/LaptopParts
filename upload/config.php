@@ -1,1 +1,1 @@
-ren
+update config.php
